@@ -1,0 +1,14 @@
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\bin\Debug\net10.0\lab10_p.exe
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\bin\Debug\net10.0\lab10_p.deps.json
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\bin\Debug\net10.0\lab10_p.runtimeconfig.json
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\bin\Debug\net10.0\lab10_p.dll
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\bin\Debug\net10.0\lab10_p.pdb
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\obj\Debug\net10.0\lab10_p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\obj\Debug\net10.0\lab10_p.AssemblyInfoInputs.cache
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\obj\Debug\net10.0\lab10_p.AssemblyInfo.cs
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\obj\Debug\net10.0\lab10_p.csproj.CoreCompileInputs.cache
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\obj\Debug\net10.0\lab10_p.dll
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\obj\Debug\net10.0\refint\lab10_p.dll
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\obj\Debug\net10.0\lab10_p.pdb
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\obj\Debug\net10.0\lab10_p.genruntimeconfig.cache
+C:\Users\ivady\Documents\Lab10_Hard\lab10_p\obj\Debug\net10.0\ref\lab10_p.dll
